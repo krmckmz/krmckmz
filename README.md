@@ -8,7 +8,8 @@
 
 - :zap: In my free time, I try to learn new programming concepts and read tech articles.
 
-- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-krmckmz-blue?style=flat&logo=Linkedin&logoColor=white)]([www.linkedin.com/keremcokmez](https://www.linkedin.com/in/keremcokmez/)) [![GMail Badge](https://img.shields.io/badge/-krmckmz-red?style=flat&logo=GMail&logoColor=white)](mailto:keremcokmez@gmail.com)
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-krmckmz-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/keremcokmez) 
+[![GMail Badge](https://img.shields.io/badge/-krmckmz-red?style=flat&logo=GMail&logoColor=white)](mailto:keremcokmez@gmail.com)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
